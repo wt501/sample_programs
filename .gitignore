@@ -1,0 +1,7 @@
+*.jpeg
+*.jpg
+*.png
+*.dcm
+*.h5
+
+.DS_Store
